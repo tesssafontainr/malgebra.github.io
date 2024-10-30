@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 :root{
-    --textcolor: #361515; /* Light Gray */
+    --textcolor: #000000; /* black or something */
     --primary-color: #7e5200; /* Dark Orange */
-    --secondary-color: #580000; /* Dark Blue */
-    --link-color: #ff002b; /* Lighter Blue for links */
-    --space-background: #002855; /* Dark Blue */
+    --secondary-color: #673147; /* plum */
+    --link-color: #770737; /* dark pink */
+    --space-background: #FFB6C1; /* pinkkkk :p */
 }
 
 .grid-2{
